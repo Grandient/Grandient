@@ -10,7 +10,6 @@ Hello, I'm Gavin.
 - 🌱 I’m currently learning WebSocket and React UI Frameworks.
 - 👯 I’m looking to collaborate on React Applications.
 - 💬 Ask me about SVG, Mixed Reality and Game Development.
-- 📫 How to reach me: Linkedin, Email.
 - 😄 Pronouns: He/Him.
 
 ### Skills
