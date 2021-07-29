@@ -6,10 +6,6 @@
 
 
 Hello, I'm Gavin.
-- 🔭 I’m currently working on a game theory education game, and a community website.
-- 🌱 I’m currently learning WebSocket and React UI Frameworks.
-- 👯 I’m looking to collaborate on React Applications.
-- 💬 Ask me about SVG, Mixed Reality and Game Development.
 - 😄 Pronouns: He/Him.
 
 ### Skills
