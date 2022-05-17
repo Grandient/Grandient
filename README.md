@@ -42,4 +42,4 @@ Hello, I'm Gavin.
 
 
 ## Contact Me
-<a href="https://www.linkedin.com/in/gavin-gosling-cs/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/gavin-gosling-cs/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
