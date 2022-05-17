@@ -9,7 +9,7 @@ Hello, I'm Gavin.
 - 😄 Pronouns: He/Him.
 
 ### Skills
-<img src='https://img.shields.io/badge/-Unity-222C37'> <img src='https://img.shields.io/badge/-HTML-blue'> <img src='https://img.shields.io/badge/-CSS-brightgreen'> <img src='https://img.shields.io/badge/-JavaScript-orange'> <img src='https://img.shields.io/badge/-React-61DBFB'> <img src='https://img.shields.io/badge/-Python-success'> <img src='https://img.shields.io/badge/-Java-F8981D'> <img src='https://img.shields.io/badge/-CSharp-270065'> <img src='https://img.shields.io/badge/-C++-00599C'>
+<img src='https://img.shields.io/badge/-JavaScript-orange'> <img src='https://img.shields.io/badge/-Python-success'>
 
 ### Contact Me
 <a href="https://www.linkedin.com/in/gavin-gosling-cs/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
